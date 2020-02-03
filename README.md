@@ -12,7 +12,7 @@ This game was created by the following artists and programmers:
 </br>
 
 * Charlie Adzuar
-* David Drouin
+* David Drouin https://github.com/DavidDrouin
 * Nathan Olivencia https://github.com/NathanOlivencia
 * Jérôme Vaglienti https://github.com/JeromeVaglienti
 
